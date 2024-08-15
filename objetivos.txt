@@ -1,0 +1,17 @@
+objetivos
+
+1 - Definir lista de palavras possíveis (FEITO)
+2 - Escolher uma palavra aleatória da lista (FEITO)
+3 - Criar uma lista para armazenar as palavras adivinhadas (FEITO)
+4 - Definir o número máximo de tentativas permitidas [max erros] (FEITO)
+5 - Enquanto o número de tentativas não for atingida:
+    a - Mostrar a palavra com underscore, com as letras adivinhadas nos espaçoes corretos (FEITO)
+    b - Pedir ao jogador que adivinhe uma letra (FEITO)
+    c - Verificar se a letra adivinhada está na palavra (FEITO)
+    d - Se a letra está na palavra atualizar a exibição da palavra (FEITO)
+    e - Se a letra não está na palavra reduzir o numero de tentativas restantes e mostrar letra incorreta (FEITO)
+    f - Verificar se todas as letras foram adivinhadas (FEITO)
+    g - Se todas as letras foram adivinhas mostra você venceu (FEITO)
+    h - Se o número de tentativas chegar a zero mostra você perdeu (FEITO)
+6 - Adicionar tratamento de erros
+7 - Adicionar salvamento
